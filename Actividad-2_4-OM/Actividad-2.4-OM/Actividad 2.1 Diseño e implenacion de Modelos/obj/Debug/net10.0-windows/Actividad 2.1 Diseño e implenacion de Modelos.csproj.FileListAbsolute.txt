@@ -1,0 +1,28 @@
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.exe
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.deps.json
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.runtimeconfig.json
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\bin\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.pdb
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmAdministrador.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmBase.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmBeneficiario.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmCategoria.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmDonacion.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmDonante.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmEvento.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmOrganizacion.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmPrincipal.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmProgramaSocial.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmTestimonio.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad_2._1_Diseño_e_implenacion_de_Modelos.FrmVoluntario.resources
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.AssemblyInfo.cs
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\refint\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.pdb
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Actividad 2.1 Diseño e implenacion de Modelos.genruntimeconfig.cache
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\ref\Actividad 2.1 Diseño e implenacion de Modelos.dll
+C:\Users\USER\Desktop\Actividad-2_4-OM\Actividad-2.4-OM\Actividad 2.1 Diseño e implenacion de Modelos\obj\Debug\net10.0-windows\Activida.8CD5BCA4.Up2Date
